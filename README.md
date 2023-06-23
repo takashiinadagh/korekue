@@ -73,3 +73,5 @@
 - AWS (インフラ構築)
 - LINE BOT（アプリそのものをLINEで使えるようにする）
 
+■画面遷移図
+https://www.figma.com/file/tOKDkThJh2jaTazg5U1DR5/korekue?type=design&node-id=0-1&mode=design&t=yhJW4wVLRdCEGE8w-0
