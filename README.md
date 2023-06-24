@@ -27,10 +27,9 @@
 ■メインのターゲットユーザー
 面倒なことは省いてとにかくダイエットを始めたい人、コンビニで食事をすることが多い人
 
-■実装予定の機能
+■実装予定の機能（以下の例は実際のアプリの機能から一部省略しています）
 - ゲストユーザー機能
   - 食品の閲覧、検索（マルチ検索・オートコンプリート）
-  - レビューの閲覧
 - 登録中ユーザー機能
   - ログイン、ログアウト
   - ユーザー登録、編集、削除
@@ -74,8 +73,3 @@
 - AWS (インフラ構築)
 - LINE BOT（アプリそのものをLINEで使えるようにする）
 
-■画面遷移図
-https://www.figma.com/file/tOKDkThJh2jaTazg5U1DR5/korekue?type=design&node-id=0-1&mode=design&t=yhJW4wVLRdCEGE8w-0
-
-■ER図
-https://drive.google.com/file/d/1WjtHhpFq3KPe1Q_k6SDlQHzpg1KFUrWM/view?usp=sharing
