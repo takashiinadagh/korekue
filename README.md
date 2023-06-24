@@ -75,3 +75,6 @@
 
 ■画面遷移図
 https://www.figma.com/file/tOKDkThJh2jaTazg5U1DR5/korekue?type=design&node-id=0-1&mode=design&t=yhJW4wVLRdCEGE8w-0
+
+■ER図
+https://i.gyazo.com/b048428edf5d1100c8e3e6d2c90cfe9f.png
